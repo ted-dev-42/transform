@@ -1,2 +1,7 @@
 # transform
-jar that tranform xml and xslt to html
+A java jar that tranforms xml and xslt to html.
+
+Usage:
+
+java -jar transform.jar xmlfile xsltfile htmlfile
+
